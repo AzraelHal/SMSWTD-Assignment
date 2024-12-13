@@ -1,0 +1,399 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<RhapsodyArchive>
+	<MagicNumber></MagicNumber>
+	<CODE-PAGE>1252</CODE-PAGE>
+	<version>109.0</version>
+	<lang>C++</lang>
+	<BuildNo>202002261110</BuildNo>
+	<RMMMinimumClientVersion>100.0</RMMMinimumClientVersion>
+	
+	<RHAPSODY-MODEL>
+	<ISubsystem type="e">
+			<_id type="a">GUID f220bb2d-8e94-4181-b427-22907f9ec732</_id>
+			<_myState type="a">8192</_myState>
+			<_name type="a">Functional_Requirements</_name>
+			<_modifiedTimeWeak type="a">12.13.2024::15:14:37</_modifiedTimeWeak>
+			<_modifiedTime type="a">12.13.2024::15:14:37</_modifiedTime>
+			<_lastID type="a">26</_lastID>
+			<weakCGTime type="a">12.13.2024::15:14:37</weakCGTime>
+			<strongCGTime type="a">12.12.2024::17:14:2</strongCGTime>
+			<_defaultComposite type="s">GUID 2694c656-f549-431c-8ada-e20a5a4f12bf</_defaultComposite>
+			<_eventsBaseID type="a">-1</_eventsBaseID>
+			<_configurationRelatedTime type="a">1.2.1990::0:0:0</_configurationRelatedTime>
+			<AggregatesList type="e">
+				<value>GUID cb98cedb-cb41-4197-a44a-1c73276fee38</value>
+				<value>GUID 7e5184a0-7d9d-496f-aadf-38057af60c4a</value>
+				<value>GUID 4e3bc1c2-b947-46cd-8bbc-e48ca27bf56f</value>
+				<value>GUID 72df217f-4f44-4825-99a4-c22346da90ff</value>
+				<value>GUID 7fd05290-26c9-4faf-9dd1-38bdcf1a2208</value>
+				<value>GUID 8683146f-3623-4d7d-884e-c76f3fd0278a</value>
+				<value>GUID 74f7104b-9b10-4830-b40c-c76212d1cc19</value>
+				<value>GUID e5ab25f4-bf1e-46e0-bf78-17cde59752b1</value>
+				<value>GUID efdc1ff3-ee02-4efc-aaed-2eaab61ce92c</value>
+				<value>GUID 50d2af51-e66c-429f-ba78-62aa4f1066d1</value>
+				<value>GUID 2fd72dc9-8df7-4e99-a0ba-4eea23120ca5</value>
+				<value>GUID 39d6f111-c3bf-4c88-9ffa-b4afddf8db9d</value>
+				<value>GUID 467292d0-5fd2-4920-b44f-972adf0f791f</value>
+				<value>GUID 7558c8aa-f4b3-401b-a136-8311d59a7175</value>
+				<value>GUID c8c563fc-bac1-4614-ba1c-fe39a7d50a37</value>
+				<value>GUID ab3c82a3-a630-4920-832b-b64bfc1b5514</value>
+				<value>GUID 4dddb03e-dc41-4ddf-98b7-f4865332c0ce</value>
+				<value>GUID 3dc83680-1cf7-499e-9223-2729871ca62d</value>
+				<value>GUID 00f05bc8-140a-4d9e-8ee8-9bbb58a22e26</value>
+				<value>GUID 855d2f90-0e08-4d1a-9504-81b094851ebb</value>
+				<value>GUID 2a141f4b-a962-4cde-91f8-f62725c4c65f</value>
+				<value>GUID ff7dd4f4-f5ce-4c81-891a-2e20443cc71c</value>
+				<value>GUID c3fa81e2-0581-4c17-93ea-c49a16027864</value>
+				<value>GUID a989bc0a-66ef-453a-98f0-2862a4b4275f</value>
+				<value>GUID 2694c656-f549-431c-8ada-e20a5a4f12bf</value>
+				<value>GUID b44d1aa1-e984-41cf-94a1-51f26be64131</value>
+			</AggregatesList>
+		</ISubsystem>
+		<IRequirement type="e">
+			<_id type="a">GUID cb98cedb-cb41-4197-a44a-1c73276fee38</_id>
+			<_myState type="a">8192</_myState>
+			<_name type="a">Collect_Image_Satellite</_name>
+			<_modifiedTimeWeak type="a">12.13.2024::14:22:5</_modifiedTimeWeak>
+			<_modifiedTime type="a">12.13.2024::14:22:5</_modifiedTime>
+			<_body type="a">{\rtf1\ansi\ansicpg1252\deff0\deflang1033{\fonttbl{\f0\fswiss\fprq2\fcharset0 Aptos;}{\f1\fnil\fcharset0 Arial;}}%0D
+\viewkind4\uc1\pard\sa160\sl276\slmult1\kerning2\f0\fs24 The SMSWTD shall collect high-resolution imagery from Satellite systems.\kerning0\f1\fs20\par%0D
+\pard\par%0D
+}%0D
+</_body>
+			<reqID type="a">F_DP_01</reqID>
+		</IRequirement>
+		<IRequirement type="e">
+			<_id type="a">GUID 7e5184a0-7d9d-496f-aadf-38057af60c4a</_id>
+			<_myState type="a">8192</_myState>
+			<_name type="a">Collect_Meteorology_Satellite</_name>
+			<_modifiedTimeWeak type="a">12.13.2024::14:22:32</_modifiedTimeWeak>
+			<_modifiedTime type="a">12.13.2024::14:22:32</_modifiedTime>
+			<_body type="a">{\rtf1\ansi\ansicpg1252\deff0\deflang1033{\fonttbl{\f0\fswiss\fprq2\fcharset0 Aptos;}{\f1\fnil\fcharset0 Arial;}}%0D
+\viewkind4\uc1\pard\kerning2\f0\fs24 The SMSWTD shall collect meteorological data from Satellite systems.\kerning0\f1\fs20\par%0D
+}%0D
+</_body>
+			<reqID type="a">F_DP_02</reqID>
+		</IRequirement>
+		<IRequirement type="e">
+			<_id type="a">GUID 4e3bc1c2-b947-46cd-8bbc-e48ca27bf56f</_id>
+			<_myState type="a">8192</_myState>
+			<_name type="a">Collect_Measurements_Aircraft</_name>
+			<_modifiedTimeWeak type="a">12.13.2024::14:22:18</_modifiedTimeWeak>
+			<_modifiedTime type="a">12.13.2024::14:22:18</_modifiedTime>
+			<_body type="a">{\rtf1\ansi\ansicpg1252\deff0\deflang1033{\fonttbl{\f0\fswiss\fprq2\fcharset0 Aptos;}{\f1\fnil\fcharset0 Arial;}}%0D
+\viewkind4\uc1\pard\sa160\sl276\slmult1\kerning2\f0\fs24 The SMSWTD shall collect localized, detailed measurements of storm conditions from aircraft sensors.\kerning0\f1\fs20\par%0D
+}%0D
+</_body>
+			<reqID type="a">F_DP_03</reqID>
+		</IRequirement>
+		<IRequirement type="e">
+			<_id type="a">GUID 72df217f-4f44-4825-99a4-c22346da90ff</_id>
+			<_myState type="a">8192</_myState>
+			<_name type="a">Collect_OceanicDisruptions_Unserwater</_name>
+			<_modifiedTimeWeak type="a">12.13.2024::14:22:45</_modifiedTimeWeak>
+			<_modifiedTime type="a">12.13.2024::14:22:45</_modifiedTime>
+			<_body type="a">{\rtf1\ansi\ansicpg1252\deff0\deflang1033{\fonttbl{\f0\fswiss\fprq2\fcharset0 Aptos;}{\f1\fnil\fcharset0 Arial;}}%0D
+\viewkind4\uc1\pard\sa160\sl276\slmult1\kerning2\f0\fs24 The SMSWTD shall collect the detection of oceanic disruptions from underwater sensors.\kerning0\f1\fs20\par%0D
+}%0D
+</_body>
+			<reqID type="a">F_DP_04</reqID>
+		</IRequirement>
+		<IRequirement type="e">
+			<_id type="a">GUID 7fd05290-26c9-4faf-9dd1-38bdcf1a2208</_id>
+			<_myState type="a">8192</_myState>
+			<_name type="a">Identify_OutOfBoundries_Data</_name>
+			<_modifiedTimeWeak type="a">12.13.2024::14:22:55</_modifiedTimeWeak>
+			<_modifiedTime type="a">12.13.2024::14:22:55</_modifiedTime>
+			<_body type="a">{\rtf1\ansi\ansicpg1252\deff0\deflang1033{\fonttbl{\f0\fswiss\fprq2\fcharset0 Aptos;}{\f1\fnil\fcharset0 Arial;}}%0D
+\viewkind4\uc1\pard\sa160\sl276\slmult1\qj\kerning2\f0\fs24 The SMSWTD shall be able to identify data out of defined boundaries.\kerning0\f1\fs20\par%0D
+}%0D
+</_body>
+			<reqID type="a">F_DP_05</reqID>
+		</IRequirement>
+		<IRequirement type="e">
+			<_id type="a">GUID 8683146f-3623-4d7d-884e-c76f3fd0278a</_id>
+			<_myState type="a">8192</_myState>
+			<_name type="a">Remove_OutOfBoundries_Data</_name>
+			<_modifiedTimeWeak type="a">12.13.2024::14:23:7</_modifiedTimeWeak>
+			<_modifiedTime type="a">12.13.2024::14:23:7</_modifiedTime>
+			<_body type="a">{\rtf1\ansi\ansicpg1252\deff0\deflang1033{\fonttbl{\f0\fswiss\fprq2\fcharset0 Aptos;}{\f1\fnil\fcharset0 Arial;}}%0D
+\viewkind4\uc1\pard\sa160\sl276\slmult1\qj\kerning2\f0\fs24 The SMSWTD shall be able to remove data out of the defined boundaries.\kerning0\f1\fs20\par%0D
+}%0D
+</_body>
+			<reqID type="a">F_DP_06</reqID>
+		</IRequirement>
+		<IRequirement type="e">
+			<_id type="a">GUID 74f7104b-9b10-4830-b40c-c76212d1cc19</_id>
+			<_myState type="a">8192</_myState>
+			<_name type="a">Store_Historical_Data</_name>
+			<_modifiedTimeWeak type="a">12.13.2024::14:23:38</_modifiedTimeWeak>
+			<_modifiedTime type="a">12.13.2024::14:23:38</_modifiedTime>
+			<_body type="a">{\rtf1\fbidis\ansi\ansicpg1252\deff0\deflang1033{\fonttbl{\f0\fswiss\fprq2\fcharset0 Aptos;}{\f1\fnil\fcharset0 Arial;}}%0D
+\viewkind4\uc1\pard\ltrpar\kerning2\f0\fs24 The SMSWTD shall be able to store all the historical data\kerning0\f1\fs20 .\par%0D
+}%0D
+</_body>
+			<reqID type="a">F_DP_07</reqID>
+		</IRequirement>
+		<IRequirement type="e">
+			<_id type="a">GUID e5ab25f4-bf1e-46e0-bf78-17cde59752b1</_id>
+			<_myState type="a">8192</_myState>
+			<_name type="a">Data_Processing_Unit</_name>
+			<_modifiedTimeWeak type="a">12.13.2024::14:35:47</_modifiedTimeWeak>
+			<_modifiedTime type="a">12.13.2024::14:35:47</_modifiedTime>
+			<_body type="a">{\rtf1\fbidis\ansi\ansicpg1252\deff0\deflang1033{\fonttbl{\f0\fswiss\fprq2\fcharset0 Aptos;}{\f1\fnil\fcharset0 Arial;}}%0D
+\viewkind4\uc1\pard\ltrpar\kerning2\f0\fs24 The SMSWTD shall have a data processing unit, which is able to run machine learning algorithms.\kerning0\f1\fs20\par%0D
+}%0D
+</_body>
+			<reqID type="a">F_DT_01</reqID>
+		</IRequirement>
+		<IRequirement type="e">
+			<_id type="a">GUID efdc1ff3-ee02-4efc-aaed-2eaab61ce92c</_id>
+			<_myState type="a">8192</_myState>
+			<_name type="a">Detect_Storm</_name>
+			<_modifiedTimeWeak type="a">12.13.2024::14:36:41</_modifiedTimeWeak>
+			<_modifiedTime type="a">12.13.2024::14:36:41</_modifiedTime>
+			<_body type="a">{\rtf1\fbidis\ansi\ansicpg1252\deff0\deflang1033{\fonttbl{\f0\fswiss\fprq2\fcharset0 Aptos;}{\f1\fnil\fcharset0 Arial;}}%0D
+\viewkind4\uc1\pard\ltrpar\fi-360\li360\sa160\sl276\slmult1\qj\kerning2\f0\fs24 The SMSWTD shall be able to detect the storm.\kerning0\f1\fs20\par%0D
+}%0D
+</_body>
+			<reqID type="a">F_DT_02</reqID>
+		</IRequirement>
+		<IRequirement type="e">
+			<_id type="a">GUID 50d2af51-e66c-429f-ba78-62aa4f1066d1</_id>
+			<_myState type="a">8192</_myState>
+			<_name type="a">Track_Storm</_name>
+			<_modifiedTimeWeak type="a">12.13.2024::14:38:15</_modifiedTimeWeak>
+			<_modifiedTime type="a">12.13.2024::14:38:15</_modifiedTime>
+			<_body type="a">{\rtf1\fbidis\ansi\ansicpg1252\deff0\deflang1033{\fonttbl{\f0\fswiss\fprq2\fcharset0 Aptos;}{\f1\fnil\fcharset0 Arial;}}%0D
+\viewkind4\uc1\pard\ltrpar\kerning2\f0\fs24 The SMSWTD shall be able to track the storm\kerning0\f1\fs20 .\par%0D
+}%0D
+</_body>
+			<reqID type="a">F_DT_03</reqID>
+		</IRequirement>
+		<IRequirement type="e">
+			<_id type="a">GUID 2fd72dc9-8df7-4e99-a0ba-4eea23120ca5</_id>
+			<_myState type="a">8192</_myState>
+			<_name type="a">Identify_Storm_Position</_name>
+			<_modifiedTimeWeak type="a">12.13.2024::14:39:56</_modifiedTimeWeak>
+			<_modifiedTime type="a">12.13.2024::14:39:56</_modifiedTime>
+			<_body type="a">{\rtf1\fbidis\ansi\ansicpg1252\deff0\deflang1033{\fonttbl{\f0\fswiss\fprq2\fcharset0 Aptos;}{\f1\fnil\fcharset0 Arial;}}%0D
+\viewkind4\uc1\pard\ltrpar\kerning2\f0\fs24 The SMSWTD shall be able to identify the position of the storm.\kerning0\f1\fs20\par%0D
+}%0D
+</_body>
+			<reqID type="a">F_DT_04</reqID>
+		</IRequirement>
+		<IRequirement type="e">
+			<_id type="a">GUID 39d6f111-c3bf-4c88-9ffa-b4afddf8db9d</_id>
+			<_myState type="a">8192</_myState>
+			<_name type="a">Identify_WindSpeed_Storm</_name>
+			<_modifiedTimeWeak type="a">12.13.2024::14:41:45</_modifiedTimeWeak>
+			<_modifiedTime type="a">12.13.2024::14:41:45</_modifiedTime>
+			<_body type="a">{\rtf1\fbidis\ansi\ansicpg1252\deff0\deflang1033{\fonttbl{\f0\fswiss\fprq2\fcharset0 Aptos;}{\f1\fnil\fcharset0 Arial;}}%0D
+\viewkind4\uc1\pard\ltrpar\fi-360\li360\sa160\sl276\slmult1\qj\kerning2\f0\fs24 The SMSWTD shall be able to identify the wind speed of the storm.\kerning0\f1\fs20\par%0D
+}%0D
+</_body>
+			<reqID type="a">F_DT_05</reqID>
+		</IRequirement>
+		<IRequirement type="e">
+			<_id type="a">GUID 467292d0-5fd2-4920-b44f-972adf0f791f</_id>
+			<_myState type="a">8192</_myState>
+			<_name type="a">Identify_Direction_Storm</_name>
+			<_modifiedTimeWeak type="a">12.13.2024::14:42:43</_modifiedTimeWeak>
+			<_modifiedTime type="a">12.13.2024::14:42:43</_modifiedTime>
+			<_body type="a">{\rtf1\ansi\ansicpg1252\deff0\deflang1033{\fonttbl{\f0\fswiss\fprq2\fcharset0 Aptos;}{\f1\fnil\fcharset0 Arial;}}%0D
+\viewkind4\uc1\pard\kerning2\b\f0\fs24 The SMSWTD shall be able to identify the direction of the storm.\kerning0\b0\f1\fs20\par%0D
+}%0D
+</_body>
+			<reqID type="a">F_DT_06</reqID>
+		</IRequirement>
+		<IRequirement type="e">
+			<_id type="a">GUID 7558c8aa-f4b3-401b-a136-8311d59a7175</_id>
+			<_myState type="a">8192</_myState>
+			<_name type="a">Identify_Type_Storm</_name>
+			<_modifiedTimeWeak type="a">12.13.2024::14:43:26</_modifiedTimeWeak>
+			<_modifiedTime type="a">12.13.2024::14:43:26</_modifiedTime>
+			<_body type="a">{\rtf1\fbidis\ansi\ansicpg1252\deff0\deflang1033{\fonttbl{\f0\fswiss\fprq2\fcharset0 Aptos;}{\f1\fnil\fcharset0 Arial;}}%0D
+\viewkind4\uc1\pard\ltrpar\kerning2\b\f0\fs24 The SMSWTD shall be able to identify the type of the storm.\kerning0\b0\f1\fs20\par%0D
+}%0D
+</_body>
+			<reqID type="a">F_DT_07</reqID>
+		</IRequirement>
+		<IRequirement type="e">
+			<_id type="a">GUID c8c563fc-bac1-4614-ba1c-fe39a7d50a37</_id>
+			<_myState type="a">8192</_myState>
+			<_name type="a">Identify_Amount_Precipitation</_name>
+			<_modifiedTimeWeak type="a">12.13.2024::14:47:41</_modifiedTimeWeak>
+			<_modifiedTime type="a">12.13.2024::14:47:41</_modifiedTime>
+			<_body type="a">{\rtf1\ansi\ansicpg1252\deff0\deflang1033{\fonttbl{\f0\fswiss\fprq2\fcharset0 Aptos;}{\f1\fnil\fcharset0 Arial;}}%0D
+\viewkind4\uc1\pard\kerning2\b\f0\fs24 The SMSWTD shall be able to identify the amount of precipitation.\kerning0\b0\f1\fs20\par%0D
+}%0D
+</_body>
+			<reqID type="a">F_DT_08</reqID>
+		</IRequirement>
+		<IRequirement type="e">
+			<_id type="a">GUID ab3c82a3-a630-4920-832b-b64bfc1b5514</_id>
+			<_myState type="a">8192</_myState>
+			<_name type="a">Predict_Tsunami</_name>
+			<_modifiedTimeWeak type="a">12.13.2024::14:48:35</_modifiedTimeWeak>
+			<_modifiedTime type="a">12.13.2024::14:48:35</_modifiedTime>
+			<_body type="a">{\rtf1\fbidis\ansi\ansicpg1252\deff0\deflang1033{\fonttbl{\f0\fswiss\fprq2\fcharset0 Aptos;}{\f1\fnil\fcharset0 Arial;}}%0D
+\viewkind4\uc1\pard\ltrpar\kerning2\b\f0\fs24 The SMSWTD shall be able to predict the likelihood, intensity, and potential impact of a tsunami.\kerning0\b0\f1\fs20\par%0D
+}%0D
+</_body>
+			<reqID type="a">F_DT_09</reqID>
+		</IRequirement>
+		<IRequirement type="e">
+			<_id type="a">GUID 4dddb03e-dc41-4ddf-98b7-f4865332c0ce</_id>
+			<_myState type="a">8192</_myState>
+			<_name type="a">Set_Thresholds_Storm</_name>
+			<_modifiedTimeWeak type="a">12.13.2024::14:51:8</_modifiedTimeWeak>
+			<_modifiedTime type="a">12.13.2024::14:51:8</_modifiedTime>
+			<_body type="a">{\rtf1\fbidis\ansi\ansicpg1252\deff0\deflang1033{\fonttbl{\f0\fswiss\fprq2\fcharset0 Aptos;}{\f1\fnil\fcharset0 Arial;}}%0D
+\viewkind4\uc1\pard\ltrpar\kerning2\f0\fs24 The SMSWTD shall be able to set \lang3081 predefined thresholds like seismic activity, storm intensity, and water pressure to \lang1033 predict storm.\kerning0\f1\fs20\par%0D
+}%0D
+</_body>
+			<reqID type="a">F_DT_10</reqID>
+		</IRequirement>
+		<IRequirement type="e">
+			<_id type="a">GUID 3dc83680-1cf7-499e-9223-2729871ca62d</_id>
+			<_myState type="a">8192</_myState>
+			<_name type="a">Set_Thresholds_Tsunami</_name>
+			<_modifiedTimeWeak type="a">12.13.2024::14:52:18</_modifiedTimeWeak>
+			<_modifiedTime type="a">12.13.2024::14:52:18</_modifiedTime>
+			<_body type="a">{\rtf1\ansi\ansicpg1252\deff0\deflang1033{\fonttbl{\f0\fnil\fcharset0 Arial;}}%0D
+\viewkind4\uc1\pard\fs20 The SMSWTD shall be able to set predefined thresholds like seismic activity, storm intensity, and water pressure to predict Tsunami.\par%0D
+}%0D
+</_body>
+			<reqID type="a">F_DT_11</reqID>
+		</IRequirement>
+		<IRequirement type="e">
+			<_id type="a">GUID 00f05bc8-140a-4d9e-8ee8-9bbb58a22e26</_id>
+			<_myState type="a">8192</_myState>
+			<_name type="a">Communicate_Sensors</_name>
+			<_modifiedTimeWeak type="a">12.13.2024::14:54:20</_modifiedTimeWeak>
+			<_modifiedTime type="a">12.13.2024::14:54:20</_modifiedTime>
+			<_body type="a">{\rtf1\fbidis\ansi\ansicpg1252\deff0\deflang1033{\fonttbl{\f0\fswiss\fprq2\fcharset0 Aptos;}{\f1\fnil\fcharset0 Arial;}}%0D
+\viewkind4\uc1\pard\ltrpar\kerning2\f0\fs24 The SMSWTD shall be able to communicate with sensors.\kerning0\f1\fs20\par%0D
+}%0D
+</_body>
+			<reqID type="a">F_NC_01</reqID>
+		</IRequirement>
+		<IRequirement type="e">
+			<_id type="a">GUID 855d2f90-0e08-4d1a-9504-81b094851ebb</_id>
+			<_myState type="a">8192</_myState>
+			<_name type="a">Release_Authorities</_name>
+			<_modifiedTimeWeak type="a">12.13.2024::14:55:49</_modifiedTimeWeak>
+			<_modifiedTime type="a">12.13.2024::14:55:49</_modifiedTime>
+			<_body type="a">{\rtf1\fbidis\ansi\ansicpg1252\deff0\deflang1033{\fonttbl{\f0\fswiss\fprq2\fcharset0 Aptos;}{\f1\fnil\fcharset0 Arial;}}%0D
+\viewkind4\uc1\pard\ltrpar\kerning2\f0\fs24 The SMSWTD shall be able to release results to all the authorities\kerning0\f1\fs20 .\par%0D
+}%0D
+</_body>
+			<reqID type="a">F_NC_02</reqID>
+		</IRequirement>
+		<IRequirement type="e">
+			<_id type="a">GUID 2a141f4b-a962-4cde-91f8-f62725c4c65f</_id>
+			<_myState type="a">8192</_myState>
+			<_name type="a">Push_Alerts</_name>
+			<_modifiedTimeWeak type="a">12.13.2024::14:56:58</_modifiedTimeWeak>
+			<_modifiedTime type="a">12.13.2024::14:56:58</_modifiedTime>
+			<_body type="a">{\rtf1\fbidis\ansi\ansicpg1252\deff0\deflang1033{\fonttbl{\f0\fswiss\fprq2\fcharset0 Aptos;}{\f1\fnil\fcharset0 Arial;}}%0D
+\viewkind4\uc1\pard\ltrpar\kerning2\f0\fs24 The SMSWTD shall be able to push necessary alerts via SMS, mobile apps, emails, and public broadcast systems to the general republic.\kerning0\f1\fs20\par%0D
+}%0D
+</_body>
+			<reqID type="a">F_NC_03</reqID>
+		</IRequirement>
+		<IRequirement type="e">
+			<_id type="a">GUID ff7dd4f4-f5ce-4c81-891a-2e20443cc71c</_id>
+			<_myState type="a">8192</_myState>
+			<_name type="a">Send_Data_Researchers</_name>
+			<_modifiedTimeWeak type="a">12.13.2024::14:58:3</_modifiedTimeWeak>
+			<_modifiedTime type="a">12.13.2024::14:58:3</_modifiedTime>
+			<_body type="a">{\rtf1\fbidis\ansi\ansicpg1252\deff0\deflang1033{\fonttbl{\f0\fswiss\fprq2\fcharset0 Aptos;}{\f1\fnil\fcharset0 Arial;}}%0D
+\viewkind4\uc1\pard\ltrpar\kerning2\f0\fs24 The SMSWTD shall be able to send the required data to the researchers\kerning0\f1\fs20 .\par%0D
+}%0D
+</_body>
+			<reqID type="a">F_NC_04</reqID>
+		</IRequirement>
+		<IRequirement type="e">
+			<_id type="a">GUID c3fa81e2-0581-4c17-93ea-c49a16027864</_id>
+			<_myState type="a">10240</_myState>
+			<_name type="a">requirement_24</_name>
+			<_modifiedTimeWeak type="a">12.13.2024::14:58:21</_modifiedTimeWeak>
+			<_modifiedTime type="a">12.13.2024::14:58:21</_modifiedTime>
+		</IRequirement>
+		<IRequirement type="e">
+			<_id type="a">GUID a989bc0a-66ef-453a-98f0-2862a4b4275f</_id>
+			<_myState type="a">8192</_myState>
+			<_name type="a">Send_Data_Subscriptions</_name>
+			<_modifiedTimeWeak type="a">12.13.2024::15:14:37</_modifiedTimeWeak>
+			<_modifiedTime type="a">12.13.2024::15:14:37</_modifiedTime>
+			<_body type="a">{\rtf1\ansi\ansicpg1252\deff0\deflang1033{\fonttbl{\f0\fnil\fcharset0 Arial;}}%0D
+\viewkind4\uc1\pard\fs20 The SMSWTD shall be able to send data according to the subscriptions.\par%0D
+}%0D
+</_body>
+			<reqID type="a">F_NC_05</reqID>
+		</IRequirement>
+		<IClass type="e">
+			<_id type="a">GUID 2694c656-f549-431c-8ada-e20a5a4f12bf</_id>
+			<_myState type="a">40960</_myState>
+			<_name type="a">TopLevel</_name>
+			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
+			<_modifiedTime type="a">1.2.1990::0:0:0</_modifiedTime>
+			<weakCGTime type="a">1.2.1990::0:0:0</weakCGTime>
+			<strongCGTime type="a">1.2.1990::0:0:0</strongCGTime>
+			<_itsStateChart type="r">
+				<IHandle type="e">
+				</IHandle>
+			</_itsStateChart>
+			<_classModifier type="a">Unspecified</_classModifier>
+		</IClass>
+		<ITableInstance type="e">
+			<_id type="a">GUID b44d1aa1-e984-41cf-94a1-51f26be64131</_id>
+			<_myState type="a">8192</_myState>
+			<_name type="a">Functional Requirements</_name>
+			<Stereotypes type="c">
+				<IRPYRawContainer type="e">
+					
+						<IHandle type="e">
+							<_hm2Class type="a">IStereotype</_hm2Class>
+							<_hfilename type="a">$OMROOT\Profiles\SysML\SysMLProfile_rpy\SysML.sbs</_hfilename>
+							<_hsubsystem type="a">SysML::Requirements</_hsubsystem>
+							<_hname type="a">RequirementsTable</_hname>
+							<_hid type="a">GUID ac8ca999-c415-4942-b5eb-99bb8da2415c</_hid>
+						</IHandle>
+					
+				</IRPYRawContainer>
+			</Stereotypes>
+			<_modifiedTimeWeak type="a">12.13.2024::13:49:27</_modifiedTimeWeak>
+			<_modifiedTime type="a">12.13.2024::13:49:27</_modifiedTime>
+			<LayoutHandle type="r">
+				<IHandle type="e">
+					<_hm2Class type="a">ITableLayout</_hm2Class>
+					<_hfilename type="a">$OMROOT\Profiles\SysML\SysMLProfile_rpy\SysML.sbs</_hfilename>
+					<_hsubsystem type="a">SysML::Requirements</_hsubsystem>
+					<_hname type="a">ReqTableLayout</_hname>
+					<_hid type="a">GUID 8f1f7467-b093-4abe-9871-3462587c6bc8</_hid>
+				</IHandle>
+			</LayoutHandle>
+			<ScopeHandles type="c">
+				<IRPYRawContainer type="e">
+					
+						<IHandle type="e">
+							<_hm2Class type="a">IProject</_hm2Class>
+							<_hname type="a">SMSWTD</_hname>
+							<_hid type="a">GUID 2713e50a-e9c7-4df7-8649-d3cc9e283978</_hid>
+						</IHandle>
+					
+				</IRPYRawContainer>
+			</ScopeHandles>
+		</ITableInstance>
+		
+	</RHAPSODY-MODEL>
+	<OslcLinks type="c">
+		<IRPYRawContainer type="e">
+		</IRPYRawContainer>
+	</OslcLinks>
+
+<INCLUDES-RHAPSODY-INDEX>false</INCLUDES-RHAPSODY-INDEX>
+</RhapsodyArchive>
+

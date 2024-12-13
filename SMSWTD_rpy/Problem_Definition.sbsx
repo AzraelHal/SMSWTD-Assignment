@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<RhapsodyArchive>
+	<MagicNumber></MagicNumber>
+	<CODE-PAGE>1252</CODE-PAGE>
+	<version>109.0</version>
+	<lang>C++</lang>
+	<BuildNo>202002261110</BuildNo>
+	<RMMMinimumClientVersion>100.0</RMMMinimumClientVersion>
+	
+	<RHAPSODY-MODEL>
+	<ISubsystem type="e">
+			<_id type="a">GUID 501bc774-bbd3-4177-8676-9d708de48db2</_id>
+			<_myState type="a">8192</_myState>
+			<_name type="a">Problem_Definition</_name>
+			<_modifiedTimeWeak type="a">12.12.2024::14:47:50</_modifiedTimeWeak>
+			<_modifiedTime type="a">12.12.2024::15:14:39</_modifiedTime>
+			<weakCGTime type="a">12.12.2024::14:47:50</weakCGTime>
+			<strongCGTime type="a">12.12.2024::14:47:24</strongCGTime>
+			<_defaultComposite type="s">GUID ba07e9f0-6937-42e3-a732-37095eca9dc3</_defaultComposite>
+			<_eventsBaseID type="a">-1</_eventsBaseID>
+			<_configurationRelatedTime type="a">1.2.1990::0:0:0</_configurationRelatedTime>
+			<AggregatesList type="e">
+				<value>GUID 3d927d28-a30b-4938-8585-00994b24a89e</value>
+				<value>GUID ba07e9f0-6937-42e3-a732-37095eca9dc3</value>
+			</AggregatesList>
+		</ISubsystem>
+		<IEmbededFile type="e">
+			<_id type="a">GUID 3d927d28-a30b-4938-8585-00994b24a89e</_id>
+			<_name type="a">Smart Monitoring System for Weather and Tsunami Detection System.pdf</_name>
+			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
+			<_modifiedTime type="a">12.12.2024::15:14:39</_modifiedTime>
+			<_MayNeedToRelocate type="a">0</_MayNeedToRelocate>
+			<_LastKnownFullPath type="a">C:\Users\20220978\Desktop\EngD Sessions\SysML\SMSWTD\SMSWTD_rpy\Smart Monitoring System for Weather and Tsunami Detection System.pdf</_LastKnownFullPath>
+		</IEmbededFile>
+		<IClass type="e">
+			<_id type="a">GUID ba07e9f0-6937-42e3-a732-37095eca9dc3</_id>
+			<_myState type="a">40960</_myState>
+			<_name type="a">TopLevel</_name>
+			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
+			<_modifiedTime type="a">1.2.1990::0:0:0</_modifiedTime>
+			<weakCGTime type="a">1.2.1990::0:0:0</weakCGTime>
+			<strongCGTime type="a">1.2.1990::0:0:0</strongCGTime>
+			<_itsStateChart type="r">
+				<IHandle type="e">
+				</IHandle>
+			</_itsStateChart>
+			<_classModifier type="a">Unspecified</_classModifier>
+		</IClass>
+		
+	</RHAPSODY-MODEL>
+	<OslcLinks type="c">
+		<IRPYRawContainer type="e">
+		</IRPYRawContainer>
+	</OslcLinks>
+
+<INCLUDES-RHAPSODY-INDEX>false</INCLUDES-RHAPSODY-INDEX>
+</RhapsodyArchive>
+
